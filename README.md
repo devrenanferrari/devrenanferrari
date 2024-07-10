@@ -10,4 +10,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrenanferrari&layout=compact&theme=radical)
 
-Apaixonado por tecnologia! 🤓💻
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
+Um eterno aprendiz, apaixonado por tecnologia! 🤓💻
