@@ -4,7 +4,6 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/devrenanferrari)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renanferrari01)
 
-![Renan Github Stats](https://github-readme-stats.vercel.app/api?username=devrenanferrari&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu mais uso
 
